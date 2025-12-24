@@ -69,4 +69,4 @@ Duplicate product names exist because the same product may appear multiple times
 <img width="930" height="712" alt="Screenshot 2025-12-24 140439" src="https://github.com/user-attachments/assets/aee58e37-447c-463d-a841-003df2c04469" />
 
 - Measured total inventory weight per product category
-<img width="920" height="605" alt="Screenshot 2025-12-24 140059" src="https://github.com/user-attachments/assets/8e3489bc-a4f2-4c47-862c-50415389dd3d" />/>
+<img width="920" height="605" alt="Screenshot 2025-12-24 140059" src="https://github.com/user-attachments/assets/8e3489bc-a4f2-4c47-862c-50415389dd3d" />
