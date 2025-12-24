@@ -1,5 +1,6 @@
-# sales_analysis_using_sql
-Analyzing sales from dataset of E-commerce website- zepto
+# Problem Statement:
+Analyzing sales from dataset of E-commerce website- zepto.
+
 # Dataset
 The dataset was sourced from Kaggle and was originally scraped from Zepto’s official product listings. It mimics what you’d typically encounter in a real-world e-commerce inventory system.
 Each row represents a unique SKU (Stock Keeping Unit) for a product. 
